@@ -1,0 +1,20 @@
+<manifest>
+  <remote name="github"
+          fetch="https://github.com/"
+          revision="master" />
+
+  <project path="device/realme/RMX1921"
+           name="GalaxyMaster/android_device_realme_RMX1921"
+           remote="github"
+           revision="13" />
+
+  <project path="kernel/realme/RMX1921"
+           name="GalaxyMaster/android_kernel_realme_RMX1921"
+           remote="github"
+           revision="13" />
+
+  <project path="vendor/realme"
+           name="GalaxyMaster/proprietary_vendor_realme"
+           remote="github"
+           revision="13" />
+</manifest>
