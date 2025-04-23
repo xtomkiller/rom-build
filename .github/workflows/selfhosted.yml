@@ -46,7 +46,7 @@ on:
       DEVICE_NAME:
         description: "Device's codename:"
         required: true
-        default: "realme"
+        default: "r5x"
       PRODUCT_NAME:
         description: "Product to build:"
         required: true
